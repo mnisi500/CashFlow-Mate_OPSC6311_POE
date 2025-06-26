@@ -3,6 +3,8 @@
 ST10265120-Nompilo Mnisi
 ST10328803-Promise Lushaba
 ST10260739-Tshiamo Maredi
+
+
 Functionalities
 OTP Login via Email
 This security feature sends a One-Time Password (OTP) to the user’s email when they log in. The user must enter the correct OTP to access the app.
@@ -12,3 +14,5 @@ When the user enters their email and password, the app sends an OTP to their ema
 
  Why it’s useful:
 This adds a layer of security to protect user information and prevent unauthorized access to personal budgeting data.
+
+CashFlowMate Demonstration videolink:

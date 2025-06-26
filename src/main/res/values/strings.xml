@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="set_budgets">Set Budgets</string>
+    <string name="total_monthly_budget">Total Monthly Budget</string>
+    <string name="amount_hint">Enter Amount</string>
+    <string name="save_budget">Save Budget</string>
+    <string name="category_budgets">Category Budgets</string>
+    <string name="back">Back</string>
+    <string name="manage_categories">Manage Categories</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="set_budget">Set Budget</string>
+    <string name="category_name_hint">Enter Category Name</string>
+    <string name="add_category">Add Category</string>
+    <string name="add_new_expense">Add New Expense</string>
+    <string name="date_hint">Select Date</string>
+    <string name="description_hint">Enter Description</string>
+    <string name="save_expense">Save Expense</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_category">Categories</string>
+    <string name="title_expense">Add Expense</string>
+    <string name="title_budget">Budget</string>
+</resources>

@@ -17,3 +17,7 @@ This adds a layer of security to protect user information and prevent unauthoriz
 
 CashFlowMate Demonstration videolink:
 https://youtu.be/v_gDpjUSsNg?si=3Hw20fpm2JzHE1mF
+
+PURPOSE OF APP 
+
+
